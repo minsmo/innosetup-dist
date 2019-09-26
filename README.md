@@ -1,0 +1,2 @@
+# innosetup-dist
+InnoSetup distribution
